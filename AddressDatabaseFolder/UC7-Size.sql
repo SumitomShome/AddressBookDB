@@ -1,0 +1,1 @@
+SELECT COUNT(first_name) FROM address_book
