@@ -1,5 +1,5 @@
 USE address_book_service
-CREATE TABLE address_book_table
+CREATE TABLE address_book
 (
 first_name varchar(25) NOT NULL,
 last_name varchar(25) NOT NULL,
