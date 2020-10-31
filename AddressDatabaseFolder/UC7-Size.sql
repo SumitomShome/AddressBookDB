@@ -1,1 +1,2 @@
-SELECT COUNT(first_name) FROM address_book
+SELECT COUNT(city) FROM address_book
+SELECT COUNT(state) FROM address_book
